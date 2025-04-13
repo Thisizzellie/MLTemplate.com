@@ -1,6 +1,6 @@
 # MLTemplate.com
 
-**MLTemplate.com** is a curated library of downloadable machine learning templates designed for developers, data scientists, and researchers. Whether you're getting started with ML or looking to save time on production-ready projects, MLTemplate provides high-quality Jupyter Notebook templates for a wide range of use cases.
+**MLTemplate.com** is a curated library of downloadable machine learning templates designed for developers, data scientists, and researchers. Whether you're getting started with ML or looking to save time on production-ready projects, MLTemplate provides high-quality Jupyter Notebook and python templates for a wide range of use cases.
 
 Explore both **free** and **premium** templates with structured code, clear documentation, and real-world datasets. From classification and regression models to advanced algorithms, each template helps you build faster and smarter.
 
